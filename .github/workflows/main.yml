@@ -14,8 +14,6 @@ jobs:
       - name: Run tool.py
         run: python tools/tool.py
         working-directory: ${{ github.workspace }}
-      - name: Print USER_EMAIL secret
-        run: echo ${{ secrets.USER_EMAIL }}
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
