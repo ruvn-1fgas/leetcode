@@ -6,7 +6,7 @@ LANG_LIST = [{'name': 'C++', 'slug': 'cpp', 'id': 0, 'extension': '.cpp'}, {'nam
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      'id': 14, 'extension': '.sql'}, {'name': 'Oracle', 'slug': 'oraclesql', 'id': 15, 'extension': '.sql'}, {'name': 'HTML', 'slug': 'html', 'id': 16, 'extension': '.html'}, {'name': 'Python ML (beta)', 'slug': 'pythonml', 'id': 17, 'extension': '.py'}, {'name': 'Rust', 'slug': 'rust', 'id': 18, 'extension': '.rs'}, {'name': 'PHP', 'slug': 'php', 'id': 19, 'extension': '.php'}, {'name': 'TypeScript', 'slug': 'typescript', 'id': 20, 'extension': '.ts'}, {'name': 'Racket', 'slug': 'racket', 'id': 21, 'extension': '.rkt'}, {'name': 'Erlang', 'slug': 'erlang', 'id': 22, 'extension': '.erl'}, {'name': 'Elixir', 'slug': 'elixir', 'id': 23, 'extension': '.ex'}, {'name': 'Dart', 'slug': 'dart', 'id': 24, 'extension': '.dart'}, {'name': 'Python Data Science (beta)', 'slug': 'pythondata', 'id': 25, 'extension': '.py'}, {'name': 'React', 'slug': 'react', 'id': 26, 'extension': '.js'}, {'name': 'Vanilla JS', 'slug': 'vanillajs', 'id': 27, 'extension': '.js'}]
 table = {}
 
-excluded_directories = ["tools", ".git"]
+excluded_directories = ["tools", ".git", ".github"]
 excluded_files = [".gitignore", ".gitattributes", "README.md"]
 dir_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 
@@ -24,6 +24,8 @@ for root, dirs, files in os.walk(dir_path):
 
         if file_ext == ".md":
             continue
+
+        file_lang = ''
 
         for lang in LANG_LIST:
             if lang["extension"] == file_ext:
@@ -47,8 +49,14 @@ for root, dirs, files in os.walk(dir_path):
         if os.path.isfile(md_file):
             if "Description" not in table[task_number]:
                 table[task_number]["Description"] = f"[Description]({path_to_folder}/{file_name_path}.md)"
+<<<<<<< Updated upstream
 print(table)
+=======
+
+
+>>>>>>> Stashed changes
 table = dict(sorted(table.items(), key=lambda item: int(item[0])))
+
 
 with open("README.md", "r") as f:
     lines = f.readlines()
