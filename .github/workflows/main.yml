@@ -1,0 +1,27 @@
+name: Run tool.py on push to master
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  run-tool:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run tool.py
+        run: python tools/tool.py
+        working-directory: ${{ github.workspace }}
+      - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+        run: |
+          git config --global user.email "${USER_EMAIL}"
+          git config --global user.name "${USER_NAME}"
+          git add README.md
+          git commit -m "Auto-Update README.md"
+          git push
