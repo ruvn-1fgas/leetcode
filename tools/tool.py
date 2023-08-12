@@ -47,7 +47,7 @@ for root, dirs, files in os.walk(dir_path):
         if os.path.isfile(md_file):
             if "Description" not in table[task_number]:
                 table[task_number]["Description"] = f"[Description]({path_to_folder}/{file_name_path}.md)"
-
+print(table)
 table = dict(sorted(table.items(), key=lambda item: int(item[0])))
 
 with open("README.md", "r") as f:
