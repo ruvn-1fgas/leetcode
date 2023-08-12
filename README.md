@@ -15,13 +15,27 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 # List of solved problems
 | # | Title | Solution | Difficulty | Description |
 |---| ----- | -------- | ---------- | ----------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](Easy/1.%20Two%20Sum.cpp) | Easy | [Description](Easy/1.%20Two%20Sum.md) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](Medium/6.%20Zigzag%20Conversion.cpp) | Medium | [Description](Medium/6.%20Zigzag%20Conversion.md) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](Medium/7.%20Reverse%20Integer.cpp) | Medium | [Description](Medium/7.%20Reverse%20Integer.md) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-(atoi)/) | [C++](Medium/8.%20String%20to%20Integer%20(atoi).cpp) | Medium | [Description](Medium/8.%20String%20to%20Integer%20(atoi).md) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](Medium/11.%20Container%20With%20Most%20Water.py), [C#](Medium/11.%20Container%20With%20Most%20Water.cs) | Medium | [Description](Medium/11.%20Container%20With%20Most%20Water.md) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](Medium/12.%20Integer%20to%20Roman.cpp) | Medium | [Description](Medium/12.%20Integer%20to%20Roman.md) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | Medium | [Description](Medium/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | Medium | [Description](Medium/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](Easy/20.%20Valid%20Parentheses.cpp) | Easy | [Description](Easy/20.%20Valid%20Parentheses.md) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](Easy/21.%20Merge%20Two%20Sorted%20Lists.cpp) | Easy | [Description](Easy/21.%20Merge%20Two%20Sorted%20Lists.md) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](Medium/22.%20Generate%20Parentheses.cpp), [Python](Medium/22.%20Generate%20Parentheses.py) | Medium | [Description](Medium/22.%20Generate%20Parentheses.md) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](Hard/23.%20Merge%20k%20Sorted%20Lists.cpp) | Hard | [Description](Hard/23.%20Merge%20k%20Sorted%20Lists.md) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](Medium/24.%20Swap%20Nodes%20in%20Pairs.cpp) | Medium | [Description](Medium/24.%20Swap%20Nodes%20in%20Pairs.md) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](Hard/25.%20Reverse%20Nodes%20in%20k-Group.cpp) | Hard | [Description](Hard/25.%20Reverse%20Nodes%20in%20k-Group.md) |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](Medium/29.%20Divide%20Two%20Integers.cpp) | Medium | [Description](Medium/29.%20Divide%20Two%20Integers.md) |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](Hard/30.%20Substring%20with%20Concatenation%20of%20All%20Words.cpp) | Hard | [Description](Hard/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](Medium/31.%20Next%20Permutation.cpp) | Medium | [Description](Medium/31.%20Next%20Permutation.md) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](Hard/32.%20Longest%20Valid%20Parentheses.cpp) | Hard | [Description](Hard/32.%20Longest%20Valid%20Parentheses.md) |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](Hard/37.%20Sudoku%20Solver.cpp) | Hard | [Description](Hard/37.%20Sudoku%20Solver.md) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](Medium/39.%20Combination%20Sum.cpp) | Medium | [Description](Medium/39.%20Combination%20Sum.md) |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](Medium/43.%20Multiply%20Strings.cpp) | Medium | [Description](Medium/43.%20Multiply%20Strings.md) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](Medium/63.%20Unique%20Paths%20II.cpp) | Medium | [Description](Medium/63.%20Unique%20Paths%20II.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](Easy/771.%20Jewels%20and%20Stones.cpp) | Easy | [Description](Easy/771.%20Jewels%20and%20Stones.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Easy/1108.%20Defanging%20an%20IP%20Address.cpp), [Python](Easy/1108.%20Defanging%20an%20IP%20Address.py) | Easy | [Description](Easy/1108.%20Defanging%20an%20IP%20Address.md) |
