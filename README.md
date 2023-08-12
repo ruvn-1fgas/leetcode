@@ -9,11 +9,6 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 ![Solved problems](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/solved?difficulty=medium&style=for-the-badge&color=yellow)
 ![Solved problems](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/solved?difficulty=hard&style=for-the-badge&color=red)
 
-![Accepted submissions](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/rate?difficulty=all&style=for-the-badge&color=ffa116)
-![Accepted submissions](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/rate?difficulty=easy&style=for-the-badge&color=green)
-![Accepted submissions](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/rate?difficulty=medium&style=for-the-badge&color=yellow)
-![Accepted submissions](https://badges.peiyuan.ch/leetcode/ruvn-1fgas/rate?difficulty=hard&style=for-the-badge&color=red)
-
 ![Top languages](https://img.shields.io/github/languages/top/ruvn-1fgas/leetcode?color=red&style=for-the-badge)
 ![Language count](https://img.shields.io/github/languages/count/ruvn-1fgas/leetcode?color=red&style=for-the-badge)
 
