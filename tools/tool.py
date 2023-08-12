@@ -33,13 +33,13 @@ for root, dirs, files in os.walk(dir_path):
                 break
 
         task_number = file_name.split(".")[0]
+        path_to_folder = os.path.basename(root)
+
         if task_number not in table:
             table[task_number] = {}
             table[task_number]["Title"] = f"[{shown_file_name}]({URL}{slug}/)"
             table[task_number]["Solution"] = []
-            table[task_number]["Difficulty"] = root.split("\\")[-1]
-
-        path_to_folder = os.path.basename(root)
+            table[task_number]["Difficulty"] = path_to_folder
 
         solution = f"[{file_lang}]({path_to_folder}/{file_name_path}{file_ext})"
         if solution not in table[task_number]["Solution"]:
