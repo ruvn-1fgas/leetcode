@@ -49,7 +49,15 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](Hard/52.%20N-Queens%20II.cpp) | Hard | [Description](Hard/52.%20N-Queens%20II.md) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](Medium/53.%20Maximum%20Subarray.cpp) | Medium | [Description](Medium/53.%20Maximum%20Subarray.md) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](Medium/55.%20Jump%20Game.cpp) | Medium | [Description](Medium/55.%20Jump%20Game.md) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [C++](Medium/56.%20Merge%20Intervals.cpp) | Medium | [Description](Medium/56.%20Merge%20Intervals.md) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [C++](Medium/57.%20Insert%20Interval.cpp) | Medium | [Description](Medium/57.%20Insert%20Interval.md) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](Medium/59.%20Spiral%20Matrix%20II.cpp) | Medium | [Description](Medium/59.%20Spiral%20Matrix%20II.md) |
+| 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [C++](Hard/60.%20Permutation%20Sequence.cpp) | Hard | [Description](Hard/60.%20Permutation%20Sequence.md) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [C++](Medium/61.%20Rotate%20List.cpp) | Medium | [Description](Medium/61.%20Rotate%20List.md) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](Medium/62.%20Unique%20Paths.cpp) | Medium | [Description](Medium/62.%20Unique%20Paths.md) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](Medium/63.%20Unique%20Paths%20II.cpp) | Medium | [Description](Medium/63.%20Unique%20Paths%20II.md) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](Medium/64.%20Minimum%20Path%20Sum.cpp) | Medium | [Description](Medium/64.%20Minimum%20Path%20Sum.md) |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](Hard/68.%20Text%20Justification.cpp) | Hard | [Description](Hard/68.%20Text%20Justification.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](Easy/771.%20Jewels%20and%20Stones.cpp) | Easy | [Description](Easy/771.%20Jewels%20and%20Stones.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Easy/1108.%20Defanging%20an%20IP%20Address.cpp), [Python](Easy/1108.%20Defanging%20an%20IP%20Address.py) | Easy | [Description](Easy/1108.%20Defanging%20an%20IP%20Address.md) |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](Medium/1476.%20Subrectangle%20Queries.cpp) | Medium | [Description](Medium/1476.%20Subrectangle%20Queries.md) |
