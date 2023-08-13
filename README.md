@@ -35,7 +35,20 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](Hard/32.%20Longest%20Valid%20Parentheses.cpp) | Hard | [Description](Hard/32.%20Longest%20Valid%20Parentheses.md) |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](Hard/37.%20Sudoku%20Solver.cpp) | Hard | [Description](Hard/37.%20Sudoku%20Solver.md) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [C++](Medium/39.%20Combination%20Sum.cpp) | Medium | [Description](Medium/39.%20Combination%20Sum.md) |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [C++](Medium/40.%20Combination%20Sum%20II.cpp) | Medium | [Description](Medium/40.%20Combination%20Sum%20II.md) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [C++](Hard/41.%20First%20Missing%20Positive.cpp) | Hard | [Description](Hard/41.%20First%20Missing%20Positive.md) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](Hard/42.%20Trapping%20Rain%20Water.cpp) | Hard | [Description](Hard/42.%20Trapping%20Rain%20Water.md) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](Medium/43.%20Multiply%20Strings.cpp) | Medium | [Description](Medium/43.%20Multiply%20Strings.md) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [C++](Hard/44.%20Wildcard%20Matching.cpp) | Hard | [Description](Hard/44.%20Wildcard%20Matching.md) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [C++](Medium/45.%20Jump%20Game%20II.cpp) | Medium | [Description](Medium/45.%20Jump%20Game%20II.md) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](Medium/46.%20Permutations.cpp) | Medium | [Description](Medium/46.%20Permutations.md) |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [C++](Medium/47.%20Permutations%20II.cpp) | Medium | [Description](Medium/47.%20Permutations%20II.md) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [C++](Medium/48.%20Rotate%20Image.cpp) | Medium | [Description](Medium/48.%20Rotate%20Image.md) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [C++](Medium/49.%20Group%20Anagrams.cpp) | Medium | [Description](Medium/49.%20Group%20Anagrams.md) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](Hard/51.%20N-Queens.cpp) | Hard | [Description](Hard/51.%20N-Queens.md) |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](Hard/52.%20N-Queens%20II.cpp) | Hard | [Description](Hard/52.%20N-Queens%20II.md) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](Medium/53.%20Maximum%20Subarray.cpp) | Medium | [Description](Medium/53.%20Maximum%20Subarray.md) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](Medium/55.%20Jump%20Game.cpp) | Medium | [Description](Medium/55.%20Jump%20Game.md) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](Medium/63.%20Unique%20Paths%20II.cpp) | Medium | [Description](Medium/63.%20Unique%20Paths%20II.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](Easy/771.%20Jewels%20and%20Stones.cpp) | Easy | [Description](Easy/771.%20Jewels%20and%20Stones.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Easy/1108.%20Defanging%20an%20IP%20Address.cpp), [Python](Easy/1108.%20Defanging%20an%20IP%20Address.py) | Easy | [Description](Easy/1108.%20Defanging%20an%20IP%20Address.md) |
