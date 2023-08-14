@@ -67,6 +67,14 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](Medium/78.%20Subsets.cpp) | Medium | [Description](Medium/78.%20Subsets.md) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](Medium/79.%20Word%20Search.cpp) | Medium | [Description](Medium/79.%20Word%20Search.md) |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp) | Medium | [Description](Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md) |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](Hard/84.%20Largest%20Rectangle%20in%20Histogram.cpp) | Hard | [Description](Hard/84.%20Largest%20Rectangle%20in%20Histogram.md) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [C++](Hard/85.%20Maximal%20Rectangle.cpp) | Hard | [Description](Hard/85.%20Maximal%20Rectangle.md) |
+| 87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](Hard/87.%20Scramble%20String.cpp) | Hard | [Description](Hard/87.%20Scramble%20String.md) |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [C++](Hard/115.%20Distinct%20Subsequences.cpp) | Hard | [Description](Hard/115.%20Distinct%20Subsequences.md) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp) | Hard | [Description](Hard/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](Hard/127.%20Word%20Ladder.cpp) | Hard | [Description](Hard/127.%20Word%20Ladder.md) |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [C++](Hard/132.%20Palindrome%20Partitioning%20II.cpp) | Hard | [Description](Hard/132.%20Palindrome%20Partitioning%20II.md) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [C++](Hard/135.%20Candy.cpp) | Hard | [Description](Hard/135.%20Candy.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](Easy/771.%20Jewels%20and%20Stones.cpp) | Easy | [Description](Easy/771.%20Jewels%20and%20Stones.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Easy/1108.%20Defanging%20an%20IP%20Address.cpp), [Python](Easy/1108.%20Defanging%20an%20IP%20Address.py) | Easy | [Description](Easy/1108.%20Defanging%20an%20IP%20Address.md) |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](Medium/1476.%20Subrectangle%20Queries.cpp) | Medium | [Description](Medium/1476.%20Subrectangle%20Queries.md) |
