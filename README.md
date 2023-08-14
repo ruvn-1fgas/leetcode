@@ -58,6 +58,15 @@ You are should not submit these solutions as your own. If you do, you're a bad p
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](Medium/63.%20Unique%20Paths%20II.cpp) | Medium | [Description](Medium/63.%20Unique%20Paths%20II.md) |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [C++](Medium/64.%20Minimum%20Path%20Sum.cpp) | Medium | [Description](Medium/64.%20Minimum%20Path%20Sum.md) |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](Hard/68.%20Text%20Justification.cpp) | Hard | [Description](Hard/68.%20Text%20Justification.md) |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [C++](Medium/71.%20Simplify%20Path.cpp) | Medium | [Description](Medium/71.%20Simplify%20Path.md) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [C++](Medium/72.%20Edit%20Distance.cpp) | Medium | [Description](Medium/72.%20Edit%20Distance.md) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](Medium/74.%20Search%20a%202D%20Matrix.cpp) | Medium | [Description](Medium/74.%20Search%20a%202D%20Matrix.md) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](Medium/75.%20Sort%20Colors.cpp) | Medium | [Description](Medium/75.%20Sort%20Colors.md) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](Hard/76.%20Minimum%20Window%20Substring.cpp) | Hard | [Description](Hard/76.%20Minimum%20Window%20Substring.md) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | [C++](Medium/77.%20Combinations.cpp) | Medium | [Description](Medium/77.%20Combinations.md) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](Medium/78.%20Subsets.cpp) | Medium | [Description](Medium/78.%20Subsets.md) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](Medium/79.%20Word%20Search.cpp) | Medium | [Description](Medium/79.%20Word%20Search.md) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp) | Medium | [Description](Medium/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](Easy/771.%20Jewels%20and%20Stones.cpp) | Easy | [Description](Easy/771.%20Jewels%20and%20Stones.md) |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](Easy/1108.%20Defanging%20an%20IP%20Address.cpp), [Python](Easy/1108.%20Defanging%20an%20IP%20Address.py) | Easy | [Description](Easy/1108.%20Defanging%20an%20IP%20Address.md) |
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [C++](Medium/1476.%20Subrectangle%20Queries.cpp) | Medium | [Description](Medium/1476.%20Subrectangle%20Queries.md) |
