@@ -11,8 +11,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Run tool.py
-        run: python tools/tool.py
+      - name: Create table
+        run: python .github/scripts/create_table.py
         working-directory: ${{ github.workspace }}
       - name: Commit changes
         env:
