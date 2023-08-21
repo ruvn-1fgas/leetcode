@@ -8,7 +8,7 @@ table = {}
 
 excluded_directories = [".git", ".github"]
 excluded_files = [".gitignore", ".gitattributes", "README.md"]
-dir_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+dir_path = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 
 for root, dirs, files in os.walk(dir_path):
     dirs[:] = [d for d in dirs if d not in excluded_directories]
@@ -51,7 +51,7 @@ for root, dirs, files in os.walk(dir_path):
                 table[task_number]["Description"] = f"[Description]({path_to_folder}/{file_name_path}.md)"
 
 table = dict(sorted(table.items(), key=lambda item: int(item[0])))
-with open("README.md", "r") as f:
+with open(f"{dir_path}/README.md", "r") as f:
     lines = f.readlines()
 
 index = lines.index("# List of solved problems\n")
@@ -65,7 +65,7 @@ for key, value in table.items():
     lines.append(
         f"| {key} | {value['Title']} | {solutions} | {value['Difficulty']} | {value['Description']} |\n")
 
-with open("README.md", "w") as f:
+with open(f"{dir_path}/README.md", "w") as f:
     f.writelines(lines)
 
 print('done')
